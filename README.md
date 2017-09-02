@@ -1,4 +1,4 @@
 # HelloWorld
-Learn how to use HitHub
+Learn how to use GitHub
 
 I'm learning about branch and commit.  I wonder if people use this for things other than code.
